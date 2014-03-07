@@ -1,4 +1,4 @@
-I started to create some themes for the fbsplash/splashutils/fbcondecor two or three years ago but never managed to finish and polish them due to time constraints.
+I started to create some themes for the fbsplash/splashutils/fbcondecor around four years ago but never managed to finish and polish them due to time constraints.
 Nevertheless I wanted to push them to the public and a vcs for some time now. Maybe I'll get some fresh motivation to finish it.
 It is usable but has some limitations.
 
