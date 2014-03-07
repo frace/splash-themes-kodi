@@ -8,3 +8,5 @@ It is usable but has some limitations.
 - Don't know if resume or suspend splashes work at all
 - A lot of cruft/mess inside the directories and files
 - No ebuild available
+
+Contributions/patches welcome ^^
