@@ -1,14 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <thememeta xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-	xsi:schemaLocation="http://fbsplash.berlios.de/schemas/1.0/thememeta.xsd">
-	<name>gentoo-xbmc</name>
+	xsi:schemaLocation="https://raw.githubusercontent.com/alanhaggai/fbsplash/master/core/docs/thememeta.xsd">
+	<name>kodi-default</name>
 	<version>0.1</version>
 	<author>
 		<name>frace</name>
-		<email>N/A</email>
+		<email>frace@users.noreply.github.com</email>
 	</author>
-	<description>A fbsplash theme created and designed for the XBMC Mediacenter htpcs.</description>
+	<description>A fbsplash theme created for KODI media player applicances.</description>
 	<license>Artistic</license>
-	<url>https://github.com/frace/splash-themes-xbmc</url>
+	<url>https://github.com/frace/splash-themes-kodi</url>
 </thememeta>
-
